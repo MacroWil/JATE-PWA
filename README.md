@@ -21,7 +21,7 @@ Clone the code to an empty file from the GitHub page, in terminal run the comman
 
 ## Contributing
 
-Maguire Wilson
+Maguire Wilson, Thanks to [Xandromus](https://github.com/Xandromus), [Benjamin Machock](https://github.com/benjaminmachock), and [Casey Miller](https://github.com/CaseySMiller) for starter code.
 
 ## Usage
 
